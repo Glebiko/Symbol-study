@@ -1,0 +1,11 @@
+@media screen and (max-width: 1100px) {
+  .header__inner {
+    background-image: url(../images/headerbg.jpg);
+  }
+  .header__image {
+    display: none;
+  }
+  .header__inner-right {
+    background-image: none;
+  }
+}
